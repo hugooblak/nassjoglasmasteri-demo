@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Nässjö Glasmästeri AB',
+	'bransch'        => 'Glasmästare',
 	'telefon'        => '0380-190 00',
 	'telefon_tel'    => '+4638019000',
 	'ort'            => 'Nässjö',
